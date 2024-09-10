@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Reaction: Premier League title-race goes to final week as Arsenal win at Man Utd",
+            "description": "Reaction as Arsenal beat Manchester United to take the Premier League title-race to the final week, plus latest football news and build-up to the week's decisive matches.",
+            "url": "http://www.bbc.co.uk/sport/football/live/c03drezjy5jt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-05-13T06:07:18.6781167Z",
+            "content": "Man Utd 0-1 Arsenal\r\nArsenal returned to the top of the Premier League and ensured the title race will go to the final day with victory over Manchester United at Old Trafford.\r\nThe Gunners delivered … [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
